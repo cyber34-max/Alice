@@ -17,8 +17,8 @@ global.aliceversion = '[ v 2.3 ]' // versi bot
 global.namebot = 'ALICE' // nama bot
 global.packname = '© Powered By ' // watermark
 global.namechannel = 'PROJECT ALICEZATION' // your WhatsApp channel name
-global.idgc = "120363332208740196@g.us" // opsional ID group, ubah jika bisa
-global.idsal = "120363344309007219@newsletter" // opsional ID channel, ubah jika bisa
+global.idgc = "12036332208740196@g.us" // opsional ID group, ubah jika bisa
+global.idsal = "12036334309007219@newsletter" // opsional ID channel, ubah jika bisa
 global.autodeletemessagebot = 60000 // hapus pesan yang sudah di kirim bot ( 1000 = 1 detik )
 
 // TELE BOT SET
@@ -31,7 +31,7 @@ global.ownertele = ["https://t.me/enjoy_energy1", "https://t.me/enjoy_energy1"] 
 
 
 // CREATOR OPTION
-global.namaownernya = 'fury' // owner name
+global.namaownernya = 'Killua' // owner name
 global.author = 'thaifuri' // your name
 global.sessionName = 'seson' // dont change, this your session
 global.owner = '6281918041732@s.whatsapp.net' // akses owner
@@ -43,10 +43,10 @@ global.usePairingCode = true
 global.pairingNumber = '6281918041732'
 
 // SOCIAL MEDIA URL
-global.group = 'https://chat.whatsapp.com/G6VyIzDhM3HCydXFPI3weu' // url WhatsApp group
-global.saluran = 'https://whatsapp.com/channel/0029Vaqf1TF30LKNJw1A5V3g' // url WhatsApp channel
-global.youtube = 'https://youtube.com/@BG-DARWIN' // url YouTube 
-global.instagram = 'https://instagram.com/memek/' // url Instagram 
+global.group = 'https://chat.whatsapp.com/G6VyIzDHCydXFPI3weu' // url WhatsApp group
+global.saluran = 'https://whatsapp.com/channel/0029Vaqf1TF30LKw1A5V3g' // url WhatsApp channel
+global.youtube = 'https://youtube.com/@' // url YouTube 
+global.instagram = 'https://instagram.com//' // url Instagram 
 
 // SETTING BOT
 global.prefix = ['.']
